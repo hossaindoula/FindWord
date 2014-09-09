@@ -1,0 +1,60 @@
+Hi everyone, today i am here to talk on the subject "FREE AND OPEN SOURCE SOFTWARES".
+Being IT folks it would be better to have some knowledge about this.
+Before going into what is Free software and Open source software let's have a look at the 
+history of software from this perspective.
+
+In the early days --  after 1950 -- all softwares
+were free or perceived as free.  That is to say, programmers felt they
+had the right to copy, study, modify, and redistribute it.  Indeed, in
+the beginning, there were no copyright and no patents for computer programs.
+
+In 1980's it became legal in USA to copyright computer programs and to patent algorithms.
+Then software vendors stopped suppllying the code. `Non-Disclosure Agreements' prevented
+programmers from helping each other.
+
+
+These attacks on programmers' freedom inspired Richard Stallman, a
+brilliant computer programmer, to talk about freedom and then to pull
+together many people and start the GNU Project, to create and
+distribute free softwares.
+
+Coming back to free softwares, when a software is said to be free ?
+in Stallman's words, if user controls the program, then its free software and
+if program controls user its not a free software.
+According definition of free software as provided in the official gnu website, a software is free
+if the user have four basic freedom
+1. to run the program for any use.
+2. to study the working of the software, ie source code should be available.
+3. to redistribute the software so as to help his neighbor.
+4. to destribute the modified version of the software so as the whole community benifits.
+
+For example, a software say MSWord is not free because it Microsoft doesn't give you these freedom.
+On the other hand Liberoffice is free because all these rights are given to users.
+
+There is a myth that free sotfware is alwalys free of cost. free software it a matter of freedom 
+and  not price even though most of the free softwares are free of cost also.
+
+Now what is an open source software ?. It is more or less similar to free software.
+But there is one difference between them. Free software is a philosophy that the use of 
+computers should not lead to people being prevented from cooperating with each other.
+For that user should have all the freedom on the software and software shouldn't have an owner.
+This is because ownership of software is far different from the ownership of material products.
+There is no copying machine for material products whereas you can make thousands of copies of software 
+in no time.
+
+Open source is a development methodology. It doesn't focus on the benefits of community or freedom
+but on the quality of software only. The source code is shared so that people can debug and suggest 
+modifications. 
+For example java is an open source software as the sorce code is available.
+But its not free as the modification is restricted.
+
+Why free softwares
+There are three reasons to favor freedom softwares: safety, quality, and opportunity.
+Safety is prime requirement today and is achived through encription. 
+Earlier developers thought that if they had kept their algorithm secrete it would be difficult to crack it.
+But now its proven that open standards are secure than proprietory standards.
+For example firefox is more secure than internet explorer even if the source is not available.
+
+Free softwares provide high quality softwares. International space station is a good example. 
+United Space Alliance which manages the computer systems has migrated their os from windows to 
+debian/linux.
